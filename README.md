@@ -14,9 +14,9 @@ Integrates DC motor control, angle sensing, microcontroller logic, and custom CA
 
 ## Demo
 
-[Watch the demo video](video/demo.mp4)
+[Watch the demo video](https://drive.google.com/file/d/1lj9NfjpqzahR9fvkhXKLoS323zjULQnU/view?usp=sharing)
 
-[Google Drive link](https://drive.google.com/file/d/1lj9NfjpqzahR9fvkhXKLoS323zjULQnU/view?usp=sharing)
+[Video file in this repo](video/demo.mp4)
 
 ## What is a PID System?
 
