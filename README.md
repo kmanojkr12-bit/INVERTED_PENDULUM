@@ -50,6 +50,14 @@ Ideal response: the response curve quickly approaches the setpoint with no overs
 
 Custom 3D printed parts: chassis designed and modelled in CAD — shaft component, final drive assembly, custom pendulum platform, final assembly.
 
+| | CAD Model | Photo |
+|---|---|---|
+| **Shaft Component** | <img src="images/shaft_cad.jpg" width="300"> | <img src="images/shaft_printed.jpg" width="300"> |
+| **Final Drive Assembly** | <img src="images/drive_assembly_cad.jpg" width="300"> | <img src="images/drive_assembly_built.jpg" width="300"> |
+| **Pendulum** | <img src="images/pendulum_cad.jpg" width="300"> | <img src="images/pendulum_printed.jpg" width="300"> |
+| **Custom Pendulum Platform** | <img src="images/pendulum_platform_cad.jpg" width="300"> | |
+| **Final Assembly** | <img src="images/final_assembly_cad.jpg" width="300"> | <img src="images/final_assembly_built.jpg" width="300"> |
+
 ## Code
 
 `self_balancing_pendulum/self_balancing_pendulum.ino`
