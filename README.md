@@ -16,6 +16,8 @@ Integrates DC motor control, angle sensing, microcontroller logic, and custom CA
 
 [Watch the demo video](video/demo.mp4)
 
+[Google Drive link](https://drive.google.com/file/d/1lj9NfjpqzahR9fvkhXKLoS323zjULQnU/view?usp=sharing)
+
 ## What is a PID System?
 
 In mechatronics, PID is the most used form of closed-loop feedback control. It continuously calculates an error value — the difference between a desired setpoint and the measured process variable — and automatically applies corrections.
