@@ -64,6 +64,14 @@ Custom 3D printed parts: chassis designed and modelled in CAD — shaft componen
 | **Custom Pendulum Platform** | <img src="images/pendulum_platform_cad.jpg" width="300"> | |
 | **Final Assembly** | <img src="images/final_assembly_cad.jpg" width="300"> | <img src="images/final_assembly_built.jpg" width="300"> |
 
+## Manoj's Contribution
+
+- Helped with optimising the 3D design CAD
+- Slicing and appropriate settings for 3D printing
+- Coding
+- Selection of sensors
+- PID tuning
+
 ## Code
 
 `self_balancing_pendulum/self_balancing_pendulum.ino`
