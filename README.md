@@ -12,6 +12,10 @@ PID closed-loop feedback continuously reads the tilt angle and drives the motors
 
 Integrates DC motor control, angle sensing, microcontroller logic, and custom CAD chassis — demonstrating P&ID mechatronics principles.
 
+## Demo
+
+[Watch the demo video](video/demo.mp4)
+
 ## What is a PID System?
 
 In mechatronics, PID is the most used form of closed-loop feedback control. It continuously calculates an error value — the difference between a desired setpoint and the measured process variable — and automatically applies corrections.
